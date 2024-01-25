@@ -91,7 +91,10 @@ nav a{
   margin-bottom: 30px;
 }
 /* main section style */
-
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
 /* about section style */
 .about{
   padding: 130px;
